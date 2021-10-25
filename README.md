@@ -3,7 +3,7 @@
 Project to learn some basic Elixir.
 
 Small terminal application based on [knowthen.com](https://knowthen.com) courses.
-Idea and architecture were not created by me, i just follow course's videos.
+Idea and architecture were not created by me, i just followed course's videos.
 
 ## Installation
 
